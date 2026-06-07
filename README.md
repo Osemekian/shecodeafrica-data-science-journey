@@ -23,4 +23,27 @@ Problem Solving with Real-World Data
 
 My long-term goal is to build expertise at the intersection of Healthcare, Laboratory Medicine, and Data Science.
 
+Skills Demonstrated:
+Programming
+Python
+Jupyter Notebook
+Data Analysis
+Pandas
+NumPy
+Data Visualization
+Matplotlib
+Seaborn
+Statistics
+Descriptive Statistics
+Inferential Statistics
+Hypothesis Testing
+Machine Learning
+Linear Regression
+Logistic Regression
+Classification Models
+Model Evaluation
+Version Control
+Git
+GitHub
+
 
